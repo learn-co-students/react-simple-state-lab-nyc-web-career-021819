@@ -34,5 +34,9 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:1030tue/react-simple-state-lab-nyc-web-career-021819.git",
+  "author": "Kate Kim <katekim5809@gmail.com>",
+  "license": "MIT"
 }
